@@ -1,3 +1,3 @@
-# pininos-ui
+# Start accumulating AI stuff here
 
-Placeholder for the project, using react to create my first web user interface 
+Repo to store skills, test code, agentic bs and all
